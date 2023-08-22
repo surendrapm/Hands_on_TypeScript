@@ -48,3 +48,5 @@ function err(error:string):void{
 }
 
 console.log("try catch error")
+
+//type alias

@@ -33,3 +33,4 @@ function err(error) {
     console.log(error);
 }
 console.log("try catch error");
+//type alias
