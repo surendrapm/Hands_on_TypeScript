@@ -1,5 +1,6 @@
 "use strict";
 // type alias
+//assinged values according to above defined types
 let User = {
     name: "surendra",
     email: "suredon456@gmail.com",
